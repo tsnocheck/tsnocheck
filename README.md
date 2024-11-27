@@ -52,6 +52,7 @@ I am a beginner backend developer
   <img src="https://img.icons8.com/color/48/webstorm.png" title="websh" alt="websh" width="40" height="40"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/92434610/137111602-71118494-37cb-46a7-870f-e80716f72286.png" title="termius" alt="termius" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
+  <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_53a87c3c3971dd13161a4aaf3f91f306/goland.png" title="golang" alt="golang" width="40" height="40"/>&nbsp;
 </div>
 
 
