@@ -36,6 +36,7 @@ I am a beginner backend developer
   <img src="https://img.icons8.com/fluency/48/discord-js.png" title="djs" alt="djs" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
   <img src="https://img.icons8.com/color/48/postgreesql.png" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
+  <img src="https://img.icons8.com/color/48/postgreesql.png" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; -->
 </div>
 
