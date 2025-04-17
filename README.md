@@ -68,7 +68,7 @@ I am a junior backend developer
       <img align="left" src="https://github-readme-streak-stats.herokuapp.com?user=tsnocheck&theme=dark" alt="webDev's Github stats" />
     </td>
     <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsnocheck&hide=javascript,html&theme=dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tsnocheck&exclude_repo=github-readme-stats,anuraghazra.github.io" />
     </td>
   </tr>
 </table>
