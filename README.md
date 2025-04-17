@@ -4,17 +4,17 @@
 
 ### :man_technologist: For me:
 
-I am a beginner backend developer
+I am a junior backend developer
 
 ---
 
 ### 🤝 Social:
 
   <div id="badges">
-    <a href="https://vk.com/urumadev" target="_blank">
+    <a href="https://vk.com/tsnocheck" target="_blank">
       <img src="https://img.icons8.com/color/48/vk-com.png" width="40" height="40" alt="VK" />
     </a>
-    <a href="https://t.me/urumadev" target="_blank">
+    <a href="https://t.me/tsnocheck" target="_blank">
       <img src="https://img.icons8.com/color/48/telegram-app--v1.png" width="40" height="40" alt="Telegram"/>
     </a>
     <a href="https://discord.com/users/232476435451740160" target="_blank">
